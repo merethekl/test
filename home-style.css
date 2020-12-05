@@ -1,0 +1,25 @@
+.topnav {
+	float: left;
+	margin: 0;
+	overflow: hidden;
+	background-color: black;
+	padding: 20px;
+	width: 100%;
+	text-align: center;
+	font-stretch: 50pc;
+	}
+/*navnbar links*/
+.topnav li {
+	width: 12%;
+	text-align: center;
+	color: white;
+}
+
+/*Gjøre navbaren horisontal*/
+.topnav li {
+	display: inline-block;
+}
+
+li hover {
+	background-color: #bbbbbb;
+}
